@@ -1,5 +1,5 @@
 myfirstrepo
 ===========
 
-Este primul meu git project la GitHub!
+Este primul zMeu git project la GitHub!
 17 Jan, 2013
